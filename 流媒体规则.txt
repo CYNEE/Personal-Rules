@@ -1,0 +1,2 @@
+# tik tok，twitch，Netflix规则
+https://raw.githubusercontent.com/CYNEE/Personal-Rules/main/Media.list, tag=其他国外流媒体, force-policy=🎥 其他国外流媒体, enabled=true
