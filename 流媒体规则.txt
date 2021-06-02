@@ -1,2 +1,6 @@
 # tik tok，twitch，Netflix规则
 https://raw.githubusercontent.com/CYNEE/Personal-Rules/main/Media.list, tag=其他国外流媒体, force-policy=🎥 其他国外流媒体, enabled=true
+# 社交媒体策略
+static=📲 社交媒体, ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
+# 社交媒体规则
+https://raw.githubusercontent.com/CYNEE/Personal-Rules/main/Social%20Media.list, tag=社交媒体, force-policy=📲 社交媒体, enabled=true
